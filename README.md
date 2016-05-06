@@ -8,3 +8,5 @@ This application uses Retrofit2 library for HTTP request. It also uses urlimagev
 to actually download images on its own thread.
 
 The POJO classes found in directory model are generated using http://www.jsonschema2pojo.org/
+
+![Application Image](https://github.com/snijsure/flicker/blob/master/app.png)
