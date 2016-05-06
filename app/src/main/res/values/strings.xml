@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickSample</string>
+    <string name="FLICKER_API_KEY">FLICKER_API_KEY_WITHOUT_DOUBLE_QUOTES</string>
+    <string name="FLICKER_API_SIG">FLICKER_API_SIG_WITHOUT_DOUBLE_QUOTES</string>
+</resources>
